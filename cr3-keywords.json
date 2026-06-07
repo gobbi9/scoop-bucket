@@ -1,15 +1,15 @@
 {
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Local Lightroom AI keywording and captioning pipeline for Canon CR3 photos",
   "homepage": "https://github.com/gobbi9/cr3-keywords",
   "license": "SEE LICENSE IN REPOSITORY",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/gobbi9/cr3-keywords/releases/download/v0.2.2/cr3_0.2.2_windows-amd64.exe",
-      "hash": "e346d44a0dcb9a3a557c98960418e107031a5e7d27445accd25376f0dc0f62cd"
+      "url": "https://github.com/gobbi9/cr3-keywords/releases/download/v0.2.3/cr3_0.2.3_windows-amd64.exe",
+      "hash": "58e89b6f00b8a0e108f8df6027f2326484e35f23e94dc732c729a6fbbb3e15d7"
     }
   },
-  "bin": [["cr3_0.2.2_windows-amd64.exe", "cr3"]],
+  "bin": [["cr3_0.2.3_windows-amd64.exe", "cr3"]],
   "checkver": {
     "github": "gobbi9/cr3-keywords"
   },
